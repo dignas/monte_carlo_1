@@ -1,0 +1,122 @@
+Running level 1 tests...
+Level 1 test chi2 for lcg
+p-value: 1.0
+Level 1 test poker for lcg
+p-value: 0.0
+Level 1 test cumsum for lcg
+p-value: 1.000000000000002
+Level 1 test birthday_spacing for lcg
+p-value: 1.1142547831062201e-07
+Level 1 test chi2 for glcg
+p-value: 0.0
+Level 1 test poker for glcg
+p-value: 1.0728801244197506e-05
+Level 1 test cumsum for glcg
+p-value: 1.815674397697284e-15
+Level 1 test birthday_spacing for glcg
+p-value: 0.0036598468273436845
+Level 1 test chi2 for msws
+p-value: 0.13238076189840453
+Level 1 test poker for msws
+p-value: 0.0056099347915387066
+Level 1 test cumsum for msws
+p-value: 0.32778545995355945
+Level 1 test birthday_spacing for msws
+p-value: 1
+Level 1 test chi2 for python
+p-value: 0.7449358713042089
+Level 1 test poker for python
+p-value: 0.9392255236869834
+Level 1 test cumsum for python
+p-value: 0.1763882213617962
+Level 1 test birthday_spacing for python
+p-value: 0.6321205588285577
+Level 1 test chi2 for rc4_32_i
+p-value: 0.5257961123954009
+Level 1 test poker for rc4_32_i
+p-value: 0.4193424021512797
+Level 1 test cumsum for rc4_32_i
+p-value: 0.9369858921014753
+Level 1 test birthday_spacing for rc4_32_i
+p-value: 0.6321205588285577
+Level 1 test chi2 for rc4_32_ii
+p-value: 0.7508457328894403
+Level 1 test poker for rc4_32_ii
+p-value: 0.6495539142079482
+Level 1 test cumsum for rc4_32_ii
+p-value: 0.16389943088932893
+Level 1 test birthday_spacing for rc4_32_ii
+p-value: 0.6321205588285577
+Level 1 test frequency_monobit for pi
+p-value: 0.6173286786345022
+Level 1 test cumsum for pi
+p-value: 0.3959300910581333
+Level 1 test frequency_monobit for e
+p-value: 0.1095736293345595
+Level 1 test cumsum for e
+p-value: 0.14293396662625302
+Level 1 test frequency_monobit for sqrt2
+p-value: 0.18412637278497979
+Level 1 test cumsum for sqrt2
+p-value: 0.20413918074185938
+Running level 2 tests...
+Level 2 test chi2 for lcg
+p-value: 0.0
+Level 2 test poker for lcg
+p-value: 0.0
+Level 2 test cumsum for lcg
+p-value: 0.0
+Level 2 test birthday_spacing for lcg
+p-value: 0.0
+Level 2 test chi2 for glcg
+p-value: 0.0
+Level 2 test poker for glcg
+p-value: 0.0
+Level 2 test cumsum for glcg
+p-value: 0.0
+Level 2 test birthday_spacing for glcg
+p-value: 0.0
+Level 2 test chi2 for msws
+p-value: 0.20994789362712796
+Level 2 test poker for msws
+p-value: 0.0
+Level 2 test cumsum for msws
+p-value: 0.8037198427103672
+Level 2 test birthday_spacing for msws
+p-value: 0.8871359741437291
+Level 2 test chi2 for python
+p-value: 0.579021033486107
+Level 2 test poker for python
+p-value: 0.0
+Level 2 test cumsum for python
+p-value: 0.8037198427103672
+Level 2 test birthday_spacing for python
+p-value: 0.5098760085014904
+Level 2 test chi2 for rc4_32_i
+p-value: 0.6766151098466555
+Level 2 test poker for rc4_32_i
+p-value: 0.0
+Level 2 test cumsum for rc4_32_i
+p-value: 0.5625911070834004
+Level 2 test birthday_spacing for rc4_32_i
+p-value: 0.11102358616493924
+Level 2 test chi2 for rc4_32_ii
+p-value: 0.6869552805443846
+Level 2 test poker for rc4_32_ii
+p-value: 0.0
+Level 2 test cumsum for rc4_32_ii
+p-value: 0.1349440907352233
+Level 2 test birthday_spacing for rc4_32_ii
+p-value: 0.07465244060951148
+Level 2 test frequency_monobit for pi
+p-value: 1.0138697459360912e-07
+Level 2 test cumsum for pi
+p-value: 0.12020686199750574
+Level 2 test frequency_monobit for e
+p-value: 3.9246577010487727e-07
+Level 2 test cumsum for e
+p-value: 0.00017114203368540082
+Level 2 test frequency_monobit for sqrt2
+p-value: 1.2250200853713977e-12
+Level 2 test cumsum for sqrt2
+p-value: 0.01301040765418593
